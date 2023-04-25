@@ -1,0 +1,4 @@
+OOP is faster and easier to execute
+OOP provides a clear structure for the programs
+OOP helps to keep the C++ code DRY "Don't Repeat Yourself".
+OOP makes it possible to create full reusable applications.

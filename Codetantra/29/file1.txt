@@ -1,0 +1,1 @@
+A Class is a user defined datatype which has data members and member functions.
